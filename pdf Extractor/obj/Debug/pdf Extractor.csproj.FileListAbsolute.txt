@@ -1,0 +1,12 @@
+C:\Users\Casa\source\repos\pdf Extractor\pdf Extractor\obj\Debug\pdf Extractor.csprojAssemblyReference.cache
+C:\Users\Casa\source\repos\pdf Extractor\pdf Extractor\obj\Debug\pdf_Extractor.Form1.resources
+C:\Users\Casa\source\repos\pdf Extractor\pdf Extractor\obj\Debug\pdf_Extractor.Properties.Resources.resources
+C:\Users\Casa\source\repos\pdf Extractor\pdf Extractor\obj\Debug\pdf Extractor.csproj.GenerateResource.cache
+C:\Users\Casa\source\repos\pdf Extractor\pdf Extractor\obj\Debug\pdf Extractor.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\pdf Extractor\pdf Extractor\bin\Debug\pdf Extractor.exe.config
+C:\Users\Casa\source\repos\pdf Extractor\pdf Extractor\bin\Debug\pdf Extractor.exe
+C:\Users\Casa\source\repos\pdf Extractor\pdf Extractor\bin\Debug\pdf Extractor.pdb
+C:\Users\Casa\source\repos\pdf Extractor\pdf Extractor\bin\Debug\itextsharp.dll
+C:\Users\Casa\source\repos\pdf Extractor\pdf Extractor\obj\Debug\pdf Extractor.csproj.CopyComplete
+C:\Users\Casa\source\repos\pdf Extractor\pdf Extractor\obj\Debug\pdf Extractor.exe
+C:\Users\Casa\source\repos\pdf Extractor\pdf Extractor\obj\Debug\pdf Extractor.pdb
